@@ -7,3 +7,5 @@
 /MediaUpload/obj
 /packages
 /*.suo
+*.suo
+/.vs
