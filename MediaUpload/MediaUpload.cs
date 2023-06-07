@@ -23,6 +23,7 @@ namespace MediaUpload
                 Console.Error.WriteLine(ex.Message);
                 return -1;
             }
+
         }
 
         private static void Help()

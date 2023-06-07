@@ -93,6 +93,8 @@ namespace SwitcherLib
                 case _BMDSwitcherVideoMode.bmdSwitcherVideoMode1080p25:
                 case _BMDSwitcherVideoMode.bmdSwitcherVideoMode1080p2997:
                 case _BMDSwitcherVideoMode.bmdSwitcherVideoMode1080p5994:
+                case _BMDSwitcherVideoMode.bmdSwitcherVideoMode1080p30:
+                case _BMDSwitcherVideoMode.bmdSwitcherVideoMode1080p60:
                     return 1080;
 
                 case _BMDSwitcherVideoMode.bmdSwitcherVideoMode525i5994NTSC:
